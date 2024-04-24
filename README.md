@@ -6,3 +6,5 @@ The data scientists at BigMart have collected 2013 sales data for 1559 products 
   Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn
 - Machine Learning Algorithms:
   Random Forest Regressor, XGBRF Regressor
+- Deployment:
+  Created a Graphical user interface that takes features such as item price, outlet type, outlet size as input to predict the sales.
